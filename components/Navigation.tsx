@@ -63,6 +63,7 @@ export default function Navigation() {
                             height={682}
                             className="h-10 w-auto rounded-lg md:hidden group-hover:scale-105 transition-transform duration-200"
                             priority
+                            unoptimized
                         />
                         {/* Desktop Logo - Full "Blu Technologies & Innovation" */}
                         <Image
@@ -72,6 +73,7 @@ export default function Navigation() {
                             height={276}
                             className="h-12 w-auto rounded-lg hidden md:block group-hover:scale-105 transition-transform duration-200"
                             priority
+                            unoptimized
                         />
                     </Link>
 

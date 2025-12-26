@@ -45,6 +45,7 @@ export default function Footer() {
                                 width={160}
                                 height={68}
                                 className="h-12 w-auto rounded-lg md:hidden group-hover:scale-105 transition-transform duration-200"
+                                unoptimized
                             />
                             {/* Desktop Logo - Full */}
                             <Image
@@ -53,6 +54,7 @@ export default function Footer() {
                                 width={280}
                                 height={93}
                                 className="h-14 w-auto rounded-lg hidden md:block group-hover:scale-105 transition-transform duration-200"
+                                unoptimized
                             />
                         </Link>
                         <p className="text-[#BFC7D5] mb-6 max-w-sm">

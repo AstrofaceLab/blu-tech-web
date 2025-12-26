@@ -59,8 +59,8 @@ export default function Navigation() {
                         <Image
                             src="/logo-mobile.jpg"
                             alt="Blu Technologies & Innovation"
-                            width={140}
-                            height={60}
+                            width={1024}
+                            height={682}
                             className="h-10 w-auto rounded-lg md:hidden group-hover:scale-105 transition-transform duration-200"
                             priority
                         />
@@ -68,8 +68,8 @@ export default function Navigation() {
                         <Image
                             src="/logo-fixed.jpg"
                             alt="Blu Technologies & Innovation"
-                            width={240}
-                            height={80}
+                            width={928}
+                            height={276}
                             className="h-12 w-auto rounded-lg hidden md:block group-hover:scale-105 transition-transform duration-200"
                             priority
                         />

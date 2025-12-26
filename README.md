@@ -330,7 +330,7 @@ Blu Tech Africa™ is a trademark of Blu Technologies & Innovation.
 
 ## 👥 Credits
 
-**Developed by:** Antigravity AI Assistant  
+**Developed by:** @harshitj183
 **Brand Guidelines:** Blu Technologies & Innovation  
 **Framework:** Next.js by Vercel  
 **Fonts:** Space Grotesk by Google Fonts
